@@ -30,4 +30,4 @@ Soruda verilen dizinde seçilen **root 5'tir.** Her bir eleman 5 ile kıyaslanı
       0   3 6   8
          / \     \
         2   4     9
-```
+
