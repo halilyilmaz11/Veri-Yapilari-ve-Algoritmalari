@@ -25,6 +25,7 @@
 
 6                        [8,11,12,16,21,22]
 
+
 1. 2. ve 3. aşamada elemanlar tek kalana kadar dizin ikiye bölündü. 4. ve 5. aşamada ise elamanlar küçükten büyüğe sıralandı. 6. aşamada ise tüm elemanlar küçükten büyüğe sıralanarak birleşti ve dizin tamamlandı.
 
 
